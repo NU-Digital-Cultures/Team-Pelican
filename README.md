@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((lack of access to nuanced mental health resources for LGBTQ+ youth in the North East))
     Research 
@@ -17,3 +18,4 @@ mindmap
         Interactive map of spaces 
         Logo / Brand recognisability 
         Interview - Podcast form 
+```
