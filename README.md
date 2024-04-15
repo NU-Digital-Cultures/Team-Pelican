@@ -19,8 +19,7 @@ mindmap
         Logo / Brand recognisability 
         Interview - Podcast form
 
-
-`` - Kate:
+- Kate:
 Logo 
 Research:
 Places that are queer friendly 
@@ -32,24 +31,24 @@ Make instagram account
 Visual identity of the brand 
 Make atleast one post for instagram 
 
-`` - Sacha: 
+- Sacha: 
 Researching how to use open street map 
 Creative interactive map 
 360 videos / pictures of safe spaces 
 One post for instagram 
 
-`` - Clem: 
+- Clem: 
 Researching how to use open street map 
 Creative interactive map 
 360 videos / pictures of safe spaces 
 One post for instagram 
 
-`` - Frankie: 
+- Frankie: 
 Research figma / work out how to use 
 Make the app on figma
 Make a post for instagram 
 
-`` - Racheal: 
+- Racheal: 
 Research figma / work out how to use 
 Make the app on figma
 Make a post for instagram 
