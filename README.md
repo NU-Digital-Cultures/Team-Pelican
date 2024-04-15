@@ -28,6 +28,6 @@ Meeting notes: 15/04
  `` Racheal: start to create website on visual studio code, and continue with app prototype on figma
  `` Clemmie: begin with website on html
  ``Clemmie and Sacha: continue with interactive map
- `` Katie: begin on making the presentation of where we are now and writing up findingd of research.  Also make an instagram post. 
+  ``Katie: begin on making the presentation of where we are now and writing up findingd of research.  Also make an instagram post. 
 
   ``` Next Meeting: 22nd April at Frankie's 
