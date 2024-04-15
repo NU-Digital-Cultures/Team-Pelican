@@ -17,7 +17,44 @@ mindmap
 
         Interactive map of spaces 
         Logo / Brand recognisability 
-        Interview - Podcast form 
+        Interview - Podcast form
+
+
+`` - Kate:
+Logo 
+Research:
+Places that are queer friendly 
+What people are looking for in a safe space 
+Existing products 
+Best ways to advertise 
+Make flier/poster 
+Make instagram account 
+Visual identity of the brand 
+Make atleast one post for instagram 
+
+`` - Sacha: 
+Researching how to use open street map 
+Creative interactive map 
+360 videos / pictures of safe spaces 
+One post for instagram 
+
+`` - Clem: 
+Researching how to use open street map 
+Creative interactive map 
+360 videos / pictures of safe spaces 
+One post for instagram 
+
+`` - Frankie: 
+Research figma / work out how to use 
+Make the app on figma
+Make a post for instagram 
+
+`` - Racheal: 
+Research figma / work out how to use 
+Make the app on figma
+Make a post for instagram 
+
+
 ```
 Meeting notes: 15/04
 - Go through lauras feedback and create a to-do list 
