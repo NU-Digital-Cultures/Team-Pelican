@@ -19,3 +19,9 @@ mindmap
         Logo / Brand recognisability 
         Interview - Podcast form 
 ```
+Meeting notes: 15/04
+- Go through lauras feedback and create a to-do list 
+- Go through github project and add notes into completed tasks 
+- 
+
+Assess the use of an app, in comparison to a phone website - decided we’re going to create on website using html and css
