@@ -56,6 +56,8 @@ Make a post for instagram
 
 
 ```
+
+```
 Meeting notes: 15/04
 - Go through lauras feedback and create a to-do list 
 - Go through github project and add notes into completed tasks 
@@ -67,7 +69,8 @@ Meeting notes: 15/04
 -  Clemmie and Sacha: continue with interactive map
 - Katie: begin on making the presentation of where we are now and writing up findingd of research.  Also make an instagram post. 
 
-  ``` Next Meeting: 22nd April at Frankie's
+Next Meeting: 22nd April at Frankie's
+```
 
 ```
 Meeting itinerary 22/04
