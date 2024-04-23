@@ -79,4 +79,16 @@ Meeting itinerary 22/04
 - Updating GitHub
 
 ```
+```
+Next steps:
+- Make final presentation
+- Create a list of questions for interviews
+- Conduct interviews
+- Print out fliers for presentation
+- Make a chatbox on website
+- Finish figma
+- Connect map, website and figma
+- Make a QR code
+
+```
 
