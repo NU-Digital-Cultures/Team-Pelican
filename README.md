@@ -19,7 +19,7 @@ mindmap
         Logo / Brand recognisability 
         Interview - Podcast form
 
-- Kate:
+Kate:
 Logo 
 Research:
 Places that are queer friendly 
@@ -31,24 +31,24 @@ Make instagram account
 Visual identity of the brand 
 Make atleast one post for instagram 
 
-- Sacha: 
+Sacha: 
 Researching how to use open street map 
 Creative interactive map 
 360 videos / pictures of safe spaces 
 One post for instagram 
 
-- Clem: 
+Clem: 
 Researching how to use open street map 
 Creative interactive map 
 360 videos / pictures of safe spaces 
 One post for instagram 
 
-- Frankie: 
+Frankie: 
 Research figma / work out how to use 
 Make the app on figma
 Make a post for instagram 
 
-- Racheal: 
+Racheal: 
 Research figma / work out how to use 
 Make the app on figma
 Make a post for instagram 
@@ -66,4 +66,6 @@ Meeting notes: 15/04
 -  Clemmie and Sacha: continue with interactive map
 - Katie: begin on making the presentation of where we are now and writing up findingd of research.  Also make an instagram post. 
 
-  ``` Next Meeting: 22nd April at Frankie's 
+  ``` Next Meeting: 22nd April at Frankie's
+
+
