@@ -68,4 +68,10 @@ Meeting notes: 15/04
 
   ``` Next Meeting: 22nd April at Frankie's
 
+```
+Meeting itinerary 22/04
+- Discussed presentation for progress presentation on 23/04
+- Discussed next steps: interviews, wesbite development, design ideas, Instagram posts
+- Updating GitHub
+
 
