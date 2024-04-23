@@ -18,6 +18,7 @@ mindmap
         Interactive map of spaces 
         Logo / Brand recognisability 
         Interview - Podcast form
+```
 
 Kate:
 Logo 
@@ -74,4 +75,5 @@ Meeting itinerary 22/04
 - Discussed next steps: interviews, wesbite development, design ideas, Instagram posts
 - Updating GitHub
 
+```
 
