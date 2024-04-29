@@ -1,5 +1,5 @@
 html {
-    background-color:lightblue; 
+    background-color:rgb(231, 236, 238); 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-family: 'Staatliches', cursive;
 }
@@ -8,19 +8,38 @@ html {
 
 
 body {
-    background-color: lightblue;
+    background-color: rgb(255, 255, 255);
   }
   
   h1 {
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
-    font-style: italic;
+    height: 100px;
+    width: 1500px;
+    background-color: powderblue;
   }
-  
+
+  h2 { 
+    color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;
+    
+  }
+
+  h3{ color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;}
+
+  h4{ color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;}
+
+
   p {
     font-family: verdana;
     font-size: 20px;
   }
 .example{
-    color: blueviolet;
+    color: rgb(43, 131, 226);
+    font-family: "Lucida Console", "Courier New", monospace;
 }
