@@ -11,8 +11,17 @@ body {
     background-color: rgb(255, 255, 255);
   }
   
+  .header{
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    border: 15px solid rgb(43, 131, 226);
+    padding: 50px;
+    margin: 20px;
+  }
+  
   h1 {
-    color: rgb(255, 255, 255);
+    color: rgb(43, 131, 226);
+    font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
     height: 100px;
     width: 1500px;
@@ -55,7 +64,9 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
-.example{
-    color: rgb(43, 131, 226);
-    font-family: "Lucida Console", "Courier New", monospace;
-}
+
+
+
+
+
+
