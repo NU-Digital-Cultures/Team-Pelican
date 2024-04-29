@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<link href="styles.css" rel="stylesheet" />
+</head>
+
+
+
+<body>
+
+
+<h1>Toto Too: Celebrating Places </h1>
+
+
+<p>Toto Too is a LGBTQ+ charity in the North East that prides on highlighting safe 
+     and inclusive spaces in and around Newcastle, we are committed to supporting queer youth in the North East.
+
+     <br>The organization is formed around LGBTQ+ communities, our overall aim is to provide support for young people, 
+     by celebrating queer individuals we create community and will provide resources and support directly to youth, 
+     including identifying safe/welcoming spaces, events, people, and advice.
+</p>
+
+<img src="/TotoTooLogo3.jpeg">
+
+<h2> Interactive Map </h2>
+
+<p> Description of Interactive Map.</p>
+<p> Iframe of the interactive map</p>
+
+
+<h3> Survey/Contact Us bit</h3>
+
+<p> Link to survey/potential chat box?</p>
+
+
+<h4>Interview with Phi</h4>
+
+<p>Who we interviewed and why with link to the video in youtube format</p>
+<!-- FRom here onwards, Rachel will be working on it -->
+</body>
