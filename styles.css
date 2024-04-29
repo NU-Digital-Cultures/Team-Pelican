@@ -11,31 +11,24 @@ body {
     background-color: rgb(255, 255, 255);
   }
   
-  .header{
-    background-color: rgb(255, 255, 255);
-    width: 300px;
-    border: 15px solid rgb(43, 131, 226);
-    padding: 50px;
-    margin: 20px;
-  }
+  
   
   h1 {
     color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
     height: 100px;
-    width: 1500px;
+    width: 1390px;
     background-color: powderblue;
+    margin-left: -70px;
   }
 
   img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+    margin-left:auto;
+    margin-right:auto;
+    width: 25%
   }
-
-
 
 
   h2 { 
