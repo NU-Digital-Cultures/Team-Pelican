@@ -91,10 +91,12 @@ Next steps:
 - Make a QR code
 
 ```
-
+```
 Interview Questions for video content: - 30/04
 - What is your favourite club or bar in Newcastle?
 - Where are your favourite places, which are suitable for under 18 year olds? (cafes, coffee shops etc)
 - What qualities of a space would you deem important to consider for our map?
 - Where has been your best night out? Why?/
-- Are you away of any charities in the North East, which specificially aid the LGBTQ+ community? If so, where? 
+- Are you away of any charities in the North East, which specificially aid the LGBTQ+ community? If so, where?
+
+```
