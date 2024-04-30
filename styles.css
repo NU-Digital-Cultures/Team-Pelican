@@ -1,5 +1,5 @@
 html {
-    background-color:rgb(231, 236, 238); 
+    background-color:rgb(255, 255, 255); 
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-family: 'Staatliches', cursive;
 }
@@ -10,7 +10,7 @@ html {
 
 body {
     background-color: rgb(255, 255, 255);
-    border: 100px;
+    border: 10px;
   }
   
   
@@ -18,14 +18,21 @@ body {
   h1 {
     color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
-    text-align: center;
+    text-align: left;
     height: 100px;
-    width: 1200px;
-    background-color: powderblue;
-    margin-left: -70px;
+    width: 2000px;
+    background-color: rgb(135, 204, 219);
+    
   }
 
-  
+  .Title{ 
+    text-align: center;
+    color: rgb(43, 131, 226);
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+  }
 
 
   h2 { 
@@ -40,6 +47,7 @@ body {
     font-family:"Lucida Console", "Courier New", monospace;
     height: 100px;
     width: 1500px;
+    
 }
 
   h4{ color: rgb(43, 131, 226);
@@ -59,7 +67,22 @@ body {
 .WhoWeAre{ 
 text-align: center;
 padding: 30px,40px,30px,40px;
+color: rgb(43, 131, 226)
 
+}
+
+.Map{ 
+ text-align: center;
+ color: rgb(43, 131, 226);
+ margin-left: 0px;
+ margin-top: 200px;
+ padding: 50px,50px,50px,50px;
+
+}
+
+.MapInfo{ 
+text-align: center;
+color: rgb(43, 131, 226);
 }
 
 .image{
