@@ -1,43 +1,44 @@
 html {
-    background-color:lightblue; 
-    font-family: 'Verdana', sansserif;Verdana 
+    background-color:rgb(231, 236, 238); 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-family: 'Staatliches', cursive;
 }
 
-h2 {
-    font-family: 'verdana', cursive;
-    padding: 2%;
-}
 
-#container {
-    margin: 0px auto;
-    width: 90%;
-    min-width: 600px;
-    box-shadow: 5px 10px;
-}
 
-iframe {
-    min-height: 400px;
-    width: 100%;
-}
 
-section {
-    border: 1px solid;
-    width: 100%;
-    position: relative;
-}
+body {
+    background-color: rgb(255, 255, 255);
+  }
+  
+  h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    height: 100px;
+    width: 1500px;
+    background-color: powderblue;
+  }
 
-span {
-    width: 29%;
-    border-top: 1px solid;
-    border-bottom: 1px solid;
-    border-right: 1px solid;
-    display: inline-block;
-    padding: 2%;
-    font-family: 'Staatliches', cursive;
-}
+  h2 { 
+    color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;
+    
+  }
 
-p {
-    font-family: 'Roboto Slab', serif;
-    padding: 2%;
-}
+  h3{ color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;}
+
+  h4{ color: rgb(43, 131, 226);
+    text-align:left;
+    font-family:"Lucida Console", "Courier New", monospace;}
+
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+.example{
+    color: rgb(43, 131, 226);
+    font-family: "Lucida Console", "Courier New", monospace;
