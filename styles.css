@@ -38,18 +38,20 @@ body {
   h2 { 
     color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
-    text-align: left;
+    text-align: center;
     height: 200px;
     width: 100%;
     background-color: rgb(135, 204, 219);
     
   }
 
-  h3{ color: rgb(43, 131, 226);
-    text-align:center
+  h3{ 
+    color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
+    text-align: left;
     height: 200px;
-    width: 100%;
+    width: 1300px;
+    background-color: rgb(135, 204, 219);
 
   
     
@@ -69,26 +71,24 @@ body {
   }
 
 
-.WhoWeAre{ 
+.BodyText{ 
 text-align: center;
 padding: 30px,40px,30px,40px;
 color: rgb(43, 131, 226)
 
 }
 
-.Map{ 
+.Heading{ 
   text-align: center;
   color: rgb(43, 131, 226);
-  margin-left: 0px;
-  margin-top: 200px;
-  padding: 50px,50px,50px,50px;
+  padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
 
 }
 
-.MapInfo{ 
-text-align: center;
-color: rgb(43, 131, 226);
-}
+
 
 .image{
 
@@ -102,16 +102,8 @@ margin-top: 0px;
 
 }
 
-.survey{
-  text-align: center;
-  color: rgb(43, 131, 226);
-  font-family: "Lucida Console", "Courier New", monospace;
 
-}
 
-/* img {
-  display: block;
-  margin-left:auto;
-  margin-right:auto;
-  width: 25%
-} */
+
+
+
