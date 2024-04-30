@@ -19,8 +19,8 @@ body {
     color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: left;
-    height: 100px;
-    width: 2000px;
+    height: 200px;
+    width: 1300px;
     background-color: rgb(135, 204, 219);
     
   }
@@ -37,23 +37,28 @@ body {
 
   h2 { 
     color: rgb(43, 131, 226);
-    text-align:center;
-    font-family:"Lucida Console", "Courier New", monospace;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: left;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(135, 204, 219);
     
   }
 
   h3{ color: rgb(43, 131, 226);
-    text-align:center;
-    font-family:"Lucida Console", "Courier New", monospace;
-    height: 100px;
-    width: 1500px;
+    text-align:center
+    font-family: "Lucida Console", "Courier New", monospace;
+    height: 200px;
+    width: 100%;
+
+  
     
 }
 
   h4{ color: rgb(43, 131, 226);
     text-align:center;
     font-family:"Lucida Console", "Courier New", monospace;
-    height: 200px;
+    height: 100px;
     width: 1500px;
 }
 
@@ -72,11 +77,11 @@ color: rgb(43, 131, 226)
 }
 
 .Map{ 
- text-align: center;
- color: rgb(43, 131, 226);
- margin-left: 0px;
- margin-top: 200px;
- padding: 50px,50px,50px,50px;
+  text-align: center;
+  color: rgb(43, 131, 226);
+  margin-left: 0px;
+  margin-top: 200px;
+  padding: 50px,50px,50px,50px;
 
 }
 
@@ -100,9 +105,7 @@ margin-top: 0px;
 .survey{
   text-align: center;
   color: rgb(43, 131, 226);
-  margin-left: -45px;
-  margin-top: 200px;
-  padding: 50px,50px,50px,50px;
+  font-family: "Lucida Console", "Courier New", monospace;
 
 }
 
