@@ -64,7 +64,13 @@ body {
     width: 1500px;
 }
 
-
+h5{text-align: center;
+  color: rgb(43, 131, 226);
+  padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
   p {
     font-family: verdana;
     font-size: 20px;
