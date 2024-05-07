@@ -25,14 +25,7 @@ body {
     
   }
 
-  .Title{ 
-    text-align: center;
-    color: rgb(43, 131, 226);
-    padding-left: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-  }
+
 
 
   h2 { 
@@ -70,6 +63,14 @@ body {
     font-size: 20px;
   }
 
+  .Title{ 
+    text-align: center;
+    color: rgb(43, 131, 226);
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+  }
 
 .BodyText{ 
 text-align: center;
@@ -87,8 +88,6 @@ color: rgb(43, 131, 226)
     padding-right: 50px;
 
 }
-
-
 
 .image{
 
