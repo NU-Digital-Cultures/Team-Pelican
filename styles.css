@@ -1,108 +1,93 @@
 html {
-    background-color:rgb(255, 255, 255); 
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-family: 'Staatliches', cursive;
+  background-color: rgb(255, 255, 255); 
+  font-family: 'verdana'; 
 }
+
 *{
-  margin:0xp;
+  margin:0px;
 }
 
 
-body {
+.body {
     background-color: rgb(255, 255, 255);
     border: 10px;
   }
   
   
-  
-  h1 {
-    color: rgb(43, 131, 226);
-    font-family: "Lucida Console", "Courier New", monospace;
-    text-align: left;
-    height: 200px;
-    width: 1300px;
-    background-color: rgb(135, 204, 219);
-    
-  }
-
-
-
-
-  h2 { 
+  .heading {
     color: rgb(43, 131, 226);
     font-family: "Lucida Console", "Courier New", monospace;
     text-align: center;
-    height: 200px;
-    width: 100%;
-    background-color: rgb(135, 204, 219);
-    
-  }
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
 
-  h3{ 
-    color: rgb(43, 131, 226);
-    font-family: "Lucida Console", "Courier New", monospace;
-    text-align:center;
-    height: 200px;
-    width: 1300px;
-    background-color: rgb(135, 204, 219);
+.centered{ 
 
+  margin: auto;
+  width: 50%;
+}
   
-    
-}
-
-  h4{ color: rgb(43, 131, 226);
-    text-align:center;
-    font-family:"Lucida Console", "Courier New", monospace;
-    height: 100px;
-    width: 1500px;
-}
-
-
-  p {
-    font-family: verdana;
-    font-size: 20px;
-  }
 
   .Title{ 
-    text-align: center;
-    color: rgb(43, 131, 226);
-    padding-left: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
+     padding:50px;
   }
 
+  
 .BodyText{ 
 text-align: center;
-padding: 30px,40px,30px,40px;
+padding-top: 0px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+    padding-right: 50px;
 color: rgb(43, 131, 226)
 
 }
 
-.Heading{ 
+
+
+
+.logoToToToo {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100px; /* Adjust the width of the image */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+.button {
+  display:block;
+  padding: 10px 20px;
+  width: 200px;
+  height: auto;
+  background-color: #007bff; /* Blue color */
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
   text-align: center;
-  color: rgb(43, 131, 226);
-  padding-left: 50px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-right: 50px;
-
-}
-
-.image{
-
-/* width: 200px;
-height: 200px; */
-/* z-index:  */
-display: block;
-margin-right: auto;
-margin-left: auto;
-margin-top: 0px;
-
+  margin: auto;
 }
 
 
-/*<!----> comment: below is the h5 oriignal instructions, we have now linked it to the 
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh; /* Set container height to full viewport height */
+  border: 0; /* or border: 0; */
+}
+
+/* Style the link when hovered */
+.button:hover {
+  background-color: #0056b3; /* Darker blue color */
+}
+
+
 /*h5{ 
 }color: rgb(43, 131, 226);
     text-align:center;
@@ -111,3 +96,27 @@ margin-top: 0px;
     width: 1500px;
 
 
+/*!/* width: 200px;
+height: 200px; */
+/* z-index:  */
+/*!display: block;
+margin-right: auto;
+margin-left: auto;
+margin-top: 0px;
+
+
+
+
+
+
+
+
+/*!.Heading{ 
+  text-align: center;
+  color: rgb(43, 131, 226);
+  padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+}
