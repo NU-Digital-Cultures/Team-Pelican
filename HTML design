@@ -1,0 +1,37 @@
+HTML Design 
+
+
+
+HTML
+
+All the code was hand coded, as we moved towards the final version of the HTML which gave us the freedom to deisgn it the way we wanted. 
+
+We wanted the Html to have a simplistic design as this was in line with our brand message as we are actively simplfying to access to help for the LGBTQ+ youth. 
+
+Without sacrificing content, we designed the hand coded figma in the most simplistic yet effective way that we could.
+
+Moving down the page, i wanted the blue writing to resonate with the rest of the project, in which we used blue as a colour becuase it means serenity. 
+
+I wanted the 'ToTo Too: Celebrating Places' to be on the top of the html as that is the slogan of the charity. Next to it was the logo which took me a long time to be able to position in the top right hand corner, i learnt about invisibile containers as that was the reason the image was not moving where i thought i had coded it to.
+
+The most interactive part of the project was the interactive map, which i iniitally displayed as an iframe, 
+
+but then thought that it would be too similar to the other sections of the html, so i learnt how to code the website as a button. Another challege was trying to move the button to the middle of the screen, 
+
+as it was on the left becuase of the default setting. 
+
+After going through a lot of trial and error, trying to understand where in the code it was positioning it. 
+
+I eventually found that it was the 'text align' and 'margin' that was responisble, and so i changed the margin to auto. 
+
+I also learnt about classes and div's in this project, which has been very useful. 
+
+We embedded the survey which looks nice in betweeen all the other text. 
+
+We also embedded the ToTo Interview with Phi and Oran which was a nice way to add non-anonymity to the project, where consent was given.
+
+The font ("Lucida Console", "Courier New", monospace) was chosen beucase it most resembled the project font which was used in the logo and the presentation. I tried to find soemthing that was similar to 'League Spartan' which is what we had used initially. 
+
+Finally, we utilised the research done of helplines by adding them to the bottom of the html, with a hyperlink to the websites we found. 
+
+
