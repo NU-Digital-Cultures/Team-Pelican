@@ -100,3 +100,7 @@ Interview Questions for video content: - 30/04
 - Are you away of any charities in the North East, which specificially aid the LGBTQ+ community? If so, where?
 
 ```
+```
+The use of real, non-anonymous people as part of our research, presented through video, was significant as it gives a real life insight into the topics.  Additionally, we gained insight into the opinions and perspectives, which informed the direction of our project and decisions.  Both parties consented to being filmed and sharing their stories, and were happy for these to be presented.  Both Oran and Phi were told they didn't have to participate, or share anything they didnt feel comfortable sharing - but also that they were more than welcome to contribute anything they felt important to discuss.  This semi-structured interview, allowed for participant led discussion, meaning we gained detailed insights.  
+```
+
